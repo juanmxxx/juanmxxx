@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Juan Manuel and I'm a apassionate front/back end developer, from Granada, Spain</h2>
 
-###
 <div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/lxfXcVFaE42By" width="480" height="355" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanmxxx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
