@@ -2,15 +2,17 @@
 
 <div align="center" style="width:100%;height:0;padding-bottom:126%;position:center;margin:auto;"><img src="https://gifdb.com/images/high/homer-simpsons-pc-key-pl1x82nemoacm5sg.gif" width="240" height="175" frameBorder="0" class="giphy-embed" allowFullScreen</div>
 
-<h3>I'm a apassionate front/back end developer, from Granada - Spain<h3>
-<p>Actually I'm cursing 2º Year Multiplatform App Development</p>
+  
+<div align="left">
+  <h3>I'm a apassionate front/back end developer, from Granada - Spain<h3>
+  <p>Actually I'm cursing 2º Year Multiplatform App Development</p>
 
-<div align="center">
+
   <h4>Please visit some of my repositories</h4>
-  <a href="https://github.com/juanmxxx/GestionBibliotecaHibernate">Gestión biblioteca Hibernate</a>
-  <a href="https://github.com/juanmxxx/JuegoDelPente">Juego del Pente</a>
-  <a href="https://github.com/juanmxxx/ProyectoListasMusicales">Proyecto Listas Musicales</a>
-  <br>
+  <br><a href="https://github.com/juanmxxx/GestionBibliotecaHibernate">Gestión biblioteca Hibernate</a>
+  <br><a href="https://github.com/juanmxxx/JuegoDelPente">Juego del Pente</a>
+  <br><a href="https://github.com/juanmxxx/ProyectoListasMusicales">Proyecto Listas Musicales</a>
+  <br><br>
   Soon more proyects...
 </div>
 
