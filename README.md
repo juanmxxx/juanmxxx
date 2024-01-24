@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Juan Manuel and I'm a apassionate front/back end developer, from Granada, Spain</h2>
+<h2 align="left">Hi <img src="https://gifdb.com/images/high/waving-hand-cute-happy-emoticon-m8zfd60nf1atzua8.gif" width="50" height="50"/>! My name is Juan Manuel and I'm a apassionate front/back end developer, from Granada, Spain</h2>
 
-<div style="width:100%;height:0;padding-bottom:126%;position:center;margin:auto;"><img src="https://gifdb.com/images/high/homer-simpsons-pc-key-pl1x82nemoacm5sg.gif" width="240" height="175" frameBorder="0" class="giphy-embed" allowFullScreen</div>
+<div align="center" style="width:100%;height:0;padding-bottom:126%;position:center;margin:auto;"><img src="https://gifdb.com/images/high/homer-simpsons-pc-key-pl1x82nemoacm5sg.gif" width="240" height="175" frameBorder="0" class="giphy-embed" allowFullScreen</div>
 
 ###
 
