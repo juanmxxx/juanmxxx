@@ -10,7 +10,8 @@
 </div>
 
 <div align="left">
-**Aprendiendo / Currently learning** <img src="https://media.tenor.com/cudWc7-OTuMAAAAj/johnny-bravo-flex.gif" height="40"/>
+<b>Aprendiendo / Currently learning</b> <img src="https://media.tenor.com/cudWc7-OTuMAAAAj/johnny-bravo-flex.gif" height="40"/>
+<br>
 </div>
 
 <div align="left">
@@ -27,14 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"/>
-
-
-  
 </div>
 
 <div align="left">
-**También puedes contactar conmigo en / Also you can contact me on:** <img src="https://media1.tenor.com/m/D-JvSMTkIigAAAAC/nando-alonso.gif" height="40"/>
+<b>También puedes contactar conmigo en / Also you can contact me on:</b> <img src="https://media1.tenor.com/m/D-JvSMTkIigAAAAC/nando-alonso.gif" height="40"/>
+<br>
 </div>
+
 <div align="left">
   <a href="https://discordapp.com/users/528988480546668544"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://drive.google.com/drive/folders/17tSMm9LTFxeHAhyg5ynLurwqaEPq8xZ7"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
