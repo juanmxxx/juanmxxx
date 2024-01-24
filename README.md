@@ -5,14 +5,13 @@
 <div align="center" style="width:100%;height:0;padding-bottom:126%;position:center;margin:auto;"><img src="https://gifdb.com/images/high/homer-simpsons-pc-key-pl1x82nemoacm5sg.gif" width="240" height="175" frameBorder="0" class="giphy-embed" allowFullScreen</div>
 
   
-<div align="left" style="margin-top: 40">
+<div align="left" style="margin-top: 120; margin-bottom: 120">
   <h4>Actually I'm cursing 2º Year Multiplatform App Development</h4>
-
   <h6>Please, let me show you some of my repositories</h6>
   <a href="https://github.com/juanmxxx/GestionBibliotecaHibernate">Gestión biblioteca Hibernate</a>
-  <br><<a href="https://github.com/juanmxxx/JuegoDelPente">Juego del Pente</a>
-  <br><<a href="https://github.com/juanmxxx/ProyectoListasMusicales">Proyecto Listas Musicales</a>
-  <br><br>
+  <br><a href="https://github.com/juanmxxx/JuegoDelPente">Juego del Pente</a>
+  <br><a href="https://github.com/juanmxxx/ProyectoListasMusicales">Proyecto Listas Musicales</a>
+  <br>
   Soon more proyects...
 </div>
 
