@@ -11,11 +11,10 @@
 
 <div align="left">
 <b>Aprendiendo / Currently learning</b> <img src="https://media.tenor.com/cudWc7-OTuMAAAAj/johnny-bravo-flex.gif" height="40"/>
-<br>
 </div>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
+  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="30" alt="cplus plus logo"/>
   <img width="12" />
@@ -36,7 +35,7 @@
 </div>
 
 <div align="left">
-  <a href="https://discordapp.com/users/528988480546668544"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <br><a href="https://discordapp.com/users/528988480546668544"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="https://drive.google.com/drive/folders/17tSMm9LTFxeHAhyg5ynLurwqaEPq8xZ7"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/juan-manuel-sújar-gonzález-4aa0772aa/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
