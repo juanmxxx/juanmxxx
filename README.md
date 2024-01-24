@@ -1,17 +1,17 @@
 <h2 align="left">Hi <img src="https://gifdb.com/images/high/waving-hand-cute-happy-emoticon-m8zfd60nf1atzua8.gif" width="50" height="50"/>! My name is Juan Manuel</h2>
 <div align="left">
-  <h5>I'm a apassionate front/back end developer, from Granada - Spain</h5>
+  <h3>I'm a apassionate front/back end developer, from Granada - Spain</h3>
 </div>
 <div align="center" style="width:100%;height:0;padding-bottom:126%;position:center;margin:auto;"><img src="https://gifdb.com/images/high/homer-simpsons-pc-key-pl1x82nemoacm5sg.gif" width="240" height="175" frameBorder="0" class="giphy-embed" allowFullScreen</div>
 
   
-<div align="left">
-  <p>Actually I'm cursing 2º Year Multiplatform App Development</p>
+<div align="left" style="margin-top: 40">
+  <h4>Actually I'm cursing 2º Year Multiplatform App Development</h4>
 
   <h6>Please, let me show you some of my repositories</h6>
-  <br><p>.</p><a href="https://github.com/juanmxxx/GestionBibliotecaHibernate">Gestión biblioteca Hibernate</a>
-  <br><p>.</p><<a href="https://github.com/juanmxxx/JuegoDelPente">Juego del Pente</a>
-  <br><p>.</p><<a href="https://github.com/juanmxxx/ProyectoListasMusicales">Proyecto Listas Musicales</a>
+  <a href="https://github.com/juanmxxx/GestionBibliotecaHibernate">Gestión biblioteca Hibernate</a>
+  <br><<a href="https://github.com/juanmxxx/JuegoDelPente">Juego del Pente</a>
+  <br><<a href="https://github.com/juanmxxx/ProyectoListasMusicales">Proyecto Listas Musicales</a>
   <br><br>
   Soon more proyects...
 </div>
