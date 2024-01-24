@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Juan Manuel and I'm a apassionate front/back end developer, from Granada, Spain</h2>
 
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="480" height="355" frameBorder="0" class="giphy-embed" allowFullScreen</div>
+<div style="width:100%;height:0;padding-bottom:126%;position:center;margin:auto;"><img src="https://gifdb.com/images/high/homer-simpsons-pc-key-pl1x82nemoacm5sg.gif" width="240" height="175" frameBorder="0" class="giphy-embed" allowFullScreen</div>
 
 ###
 
