@@ -7,7 +7,7 @@
 <br><br>  
 <div align="left">
   <h4>Actually I'm cursing 2º Year Multiplatform App Development</h4>
-  <h6>Please, let me show you some of my repositories</h6>
+  <h6>Please, let me show you some of my proyects</h6>
   <a href="https://github.com/juanmxxx/GestionBibliotecaHibernate">Gestión biblioteca Hibernate</a>
   <br><a href="https://github.com/juanmxxx/JuegoDelPente">Juego del Pente</a>
   <br><a href="https://github.com/juanmxxx/ProyectoListasMusicales">Proyecto Listas Musicales</a>
